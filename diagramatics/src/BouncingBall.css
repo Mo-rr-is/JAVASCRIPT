@@ -1,0 +1,8 @@
+/* Styles for the SVG container */
+svg {
+    border: 1px solid black;
+    background-color: #f0f0f0; /* Light gray background for better contrast */
+    margin: 20px auto; /* Center the SVG horizontally */
+    display: block;
+  }
+  
