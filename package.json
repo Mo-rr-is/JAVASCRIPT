@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@swc/cli": "^0.3.12"
+    "@swc/cli": "^0.3.12",
+    "bootstrap": "^5.2.3"
   }
 }
